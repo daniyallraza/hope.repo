@@ -1,10 +1,9 @@
 .one {
     font-size: 10rem;
     color: white;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5), -2px -2px 5px rgba(255, 0, 0, 0.5);main
-}
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5), -2px -2px 5px rgba(255, 0, 0, 0.5);}
 .two{
-    font-size: 20rem;
+    font-size: 10rem;
     color: white;
     text-shadow: 9px 9px 10px blue , -7px -7px 10px red;
 }
